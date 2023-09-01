@@ -264,12 +264,19 @@ button {
 
 .container-descr {}
 
-.icons-descr {}
+.icons-descr {
+    display: flex;
+    align-items: center;
+    background-color: #f4f4fd;
+    height: 112px;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
 
 .icons-descr-list {
     display: flex;
     gap: 24px;
-    margin-bottom: 8px;
+    /* margin-bottom: 8px; */
 }
 
 .icon-descr-list-item {
