@@ -458,12 +458,14 @@ button {
 
 .portfol-text {}
 
+
+
+.card-portfolio-holder {}
+
 .portfolio-overlay-wrapper {
     position: relative;
     overflow: hidden;
 }
-
-.card-portfolio-holder {}
 
 .portfol-img {}
 
