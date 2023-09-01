@@ -472,10 +472,11 @@ button {
 
 }
 
-/* .card-portfolio-holder {
+.card-portfolio-holder {
     position: relative;
     overflow: hidden;
-} */
+}
+
 .portfol-img {}
 
 .portfolio-overlay {
