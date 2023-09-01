@@ -210,7 +210,7 @@ button {
     background-repeat: no-repeat;
     background-position: 50% 50%;
     background-size: cover;
-    background-image: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70)), url(../images/people-office\ 1\ \(1\).jpg);
+    background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office\ 1\ \(1\).jpg);
 }
 
 .container-hero {}
@@ -228,7 +228,6 @@ button {
 }
 
 .hero-button {
-
     display: block;
     background: #4D5AE5;
     color: #FFF;
@@ -451,7 +450,7 @@ button {
 
 
 
-.portfol-img {}
+
 
 .div-portfolio {
     padding: 32px 16px;
@@ -477,6 +476,7 @@ button {
     position: relative;
     overflow: hidden;
 } */
+.portfol-img {}
 
 .portfolio-overlay {
     position: absolute;
