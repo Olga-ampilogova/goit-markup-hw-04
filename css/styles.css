@@ -454,6 +454,8 @@ button {
     margin-bottom: 8px;
 }
 
+.portfol-img {}
+
 .portfol-text {}
 
 .card-portfolio-holder {}
@@ -462,8 +464,6 @@ button {
     position: relative;
     overflow: hidden;
 }
-
-.portfol-img {}
 
 .portfolio-overlay {
     position: absolute;
